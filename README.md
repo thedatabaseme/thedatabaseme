@@ -9,4 +9,4 @@ Lot's of my free time is spend in tech related stuff which outcome you can find 
 [![GitHub followers](https://img.shields.io/github/followers/thedatabaseme?logo=GitHub&style=for-the-badge)](https://github.com/thedatabaseme)
 [![GitHub Stars](https://img.shields.io/github/stars/thedatabaseme?logo=github&style=for-the-badge)](https://github.com/thedatabaseme)
 
-[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=thedatabaseme&show_icons=true&count_private=true&hide=stars)](https://github.com/thedatabaseme)
+[![TheDatabaseMe's github stats](https://github-readme-stats.vercel.app/api?username=thedatabaseme&show_icons=true&count_private=true&hide=stars)](https://github.com/thedatabaseme)
